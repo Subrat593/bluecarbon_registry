@@ -1,0 +1,7 @@
+# Ignore non-CSS files that may be misparsed by stylelint/PostCSS
+index.html
+public/**
+*.json
+**/*.json
+package.json
+package-lock.json
